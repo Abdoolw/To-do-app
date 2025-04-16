@@ -5,8 +5,6 @@ A simple and efficient To-do application built with Flutter and Laravel to help 
 ## Features
 
 - Add, edit, and delete tasks
-- Mark tasks as complete or incomplete
-- Organize tasks by categories or due dates
 - Responsive and user-friendly interface
 
 ## Getting Started
